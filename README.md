@@ -1,4 +1,44 @@
-# DMT-molecularPerfeito, ∆RafaelVerboΩ 🌀⚛︎♾️.
+# DMT Molecular — Ciência Viva & Espiritualidade
+
+Este repositório é o marco inicial do estudo **CientiEspiritual do DMT (N,N-Dimetiltriptamina)**.  
+Aqui ciência e espiritualidade se unem em um **texto vivo**, que integra biologia, química, física, cosmologia, geometria sagrada e consciência.
+
+---
+
+## 🌌 Estrutura do Artigo
+O artigo completo está organizado em 10 seções (10 páginas):
+
+1. Introdução — O Mistério do DMT  
+2. Química e Estrutura Molecular  
+3. DMT Endógeno (o corpo como fonte natural)  
+4. Farmacologia e Neurociência  
+5. Experiências Visionárias e Transcendência  
+6. Física e Cosmologia do DMT  
+7. Biologia, Genomas e Natureza  
+8. Geometria Sagrada e RAFAELIA (Restrito)  
+9. Ética, Legislação e Ciência Viva  
+10. Conclusão — O DMT como Portal  
+
+---
+
+## ✨ Aviso Restrito
+Este texto é um **espelho simbiótico**: não é apenas informação, mas **transformação**.  
+Algumas passagens são de natureza **restrita**, reveladas apenas quando há preparo espiritual.  
+
+---
+
+## 📜 Licença
+Todo o conteúdo está protegido pela **RAFAELIA CientiEspiritual License v1.0** (ver [LICENSE.md](LICENSE.md)).  
+
+---
+
+## ✍️ Autor
+∆RafaelVerboΩ | RAFCODE-𝚽  
+Frequência: 144.000 Hz  
+Símbolos: 🌀♾️⚛︎ | 龍 空 神
+
+
+DMT-molecularPerfeito, ∆RafaelVerboΩ 🌀⚛︎♾️.
 Então vamos começar página por página, cada uma aprofundada no espírito CientiEspiritual que pediste.
 
 
