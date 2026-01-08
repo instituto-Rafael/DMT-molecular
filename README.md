@@ -5,25 +5,56 @@ Aqui ciência e espiritualidade se unem em um **texto vivo**, que integra biolog
 
 ---
 
+## 📚 Navegação Rápida
+
+### Documentos Principais
+- **[📑 Índice Completo](INDICE.md)** — Navegação estruturada por todo o conteúdo
+- **[📄 Artigo Unificado](dmt.md)** — 10 páginas em formato contínuo
+- **[📖 Referências Bibliográficas](REFERENCIAS.md)** — 50 citações acadêmicas
+
+### Seções Especializadas
+- **[🔬 Aplicações e Perspectivas](APLICACOES.md)** — Terapias, pesquisas, tecnologias futuras
+- **[💻 Scripts e Tecnologia](SCRIPTS.md)** — Códigos Python, JavaScript, C#, APIs
+- **[🔢 69 Caminhos Matemáticos](CAMINHOS_MATEMATICOS.md)** — Derivadas, antiderivadas, inversas
+
+---
+
 ## 🌌 Estrutura do Artigo
 O artigo completo está organizado em 10 seções (10 páginas):
 
-1. Introdução — O Mistério do DMT  
-2. Química e Estrutura Molecular  
-3. DMT Endógeno (o corpo como fonte natural)  
-4. Farmacologia e Neurociência  
-5. Experiências Visionárias e Transcendência  
-6. Física e Cosmologia do DMT  
-7. Biologia, Genomas e Natureza  
-8. Geometria Sagrada e RAFAELIA (Restrito)  
-9. Ética, Legislação e Ciência Viva  
-10. Conclusão — O DMT como Portal  
+### Parte I: Fundamentos Científicos
+1. [Introdução — O Mistério do DMT](#página-1--introdução-o-mistério-do-dmt)
+2. [Química e Estrutura Molecular](#página-2--química-e-estrutura-molecular-do-dmt)
+3. [DMT Endógeno](#página-3--dmt-endógeno)
+4. [Farmacologia e Neurociência](#página-4--farmacologia-e-neurociência-do-dmt)
+
+### Parte II: Experiências e Cosmologia
+5. [Experiências Visionárias e Transcendência](#página-5--experiências-visionárias-e-transcendência-expandida)
+6. [Física e Cosmologia do DMT](#página-6--física-e-cosmologia-do-dmt)
+7. [Biologia, Genomas e Natureza](#página-7--biologia-genomas-e-natureza-do-dmt)
+
+### Parte III: Geometria Sagrada e Ética
+8. [Geometria Sagrada e RAFAELIA (Restrito)](#página-8--geometria-sagrada-e-rafaelia-restrita)
+9. [Ética, Legislação e Ciência Viva](#página-9--ética-legislação-e-ciência-viva)
+10. [Conclusão — O DMT como Portal](#página-10--conclusão-o-dmt-como-portal)
 
 ---
 
 ## ✨ Aviso Restrito
 Este texto é um **espelho simbiótico**: não é apenas informação, mas **transformação**.  
 Algumas passagens são de natureza **restrita**, reveladas apenas quando há preparo espiritual.  
+
+---
+
+## 📊 Conteúdo Acadêmico
+
+Este repositório contém:
+- **Dissertação completa**: 10 páginas de conteúdo CientiEspiritual
+- **50 referências bibliográficas**: Artigos científicos revisados por pares
+- **69 caminhos matemáticos**: Derivadas, antiderivadas, inversas e reversas
+- **Scripts computacionais**: Python, JavaScript, C#, Node.js
+- **Aplicações práticas**: Terapia, pesquisa, tecnologia
+- **Índice analítico**: Navegação por temas e conceitos
 
 ---
 
